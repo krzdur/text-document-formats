@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transportMeans>
+    <vehicle type="tram" owned="false">
+        <length>10 m</length>
+        <weight>10000 kg</weight>
+        <pricePerKm>0.20 PLN</pricePerKm>
+        <topSpeed>50 km/h</topSpeed>
+    </vehicle>
+    <vehicle type="car" owned="true">
+        <length>2.5 m</length>
+        <weight>1500 kg</weight>
+        <pricePerKm>0.10 PLN</pricePerKm>
+        <topSpeed>200 km/h</topSpeed>
+    </vehicle>
+    <vehicle type="motorcycle" owned="true">
+        <length>1.5 m</length>
+        <weight>200 kg</weight>
+        <pricePerKm>0.8 PLN</pricePerKm>
+        <topSpeed>250 km/h</topSpeed>
+    </vehicle>
+</transportMeans>
