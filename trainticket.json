@@ -1,0 +1,11 @@
+{
+    "ticketNumber": "AB123456789",
+    "passengerName": "John Doe",
+    "departureStation": "New York Penn Station",
+    "destinationStation": "Washington Union Station",
+    "departureDate": "2024-12-15",
+    "departureTime": "08:30 AM",
+    "ticketType": "First Class",
+    "price": 120.50,
+    "isRoundTrip": false
+}
